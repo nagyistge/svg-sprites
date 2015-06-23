@@ -13,4 +13,4 @@ Symbols could be used like so:
 ```html
 <svg><use xlink:href="#svg-plus"></use></svg>
 ```
-Where `#svg-plus` is the id of the symbol. You can now manipulate/animate your SVGs just with CSS.
+Where `#svg-plus` comes from the filename `plus.svg` prefixed with `svg-`. You can now manipulate/animate your SVGs just with CSS!
